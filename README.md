@@ -1,2 +1,2 @@
-# digital_termometer
-Digital termometer on atmega328p with lm35 sensor
+# digital_thermometer
+Digital thermometer using the Atmega328P microcontroller. It combines the the LM35 temperature sensor with tha 4-digit 7-segment display.
